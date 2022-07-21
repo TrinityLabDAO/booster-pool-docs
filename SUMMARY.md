@@ -8,4 +8,7 @@
   * [⬇ Deposit](booster-pool-guides/deposit.md)
   * [⬆ Withdraw](booster-pool-guides/withdraw.md)
   * [⚙ Test Network](booster-pool-guides/test-network.md)
-* [📚 Inside the Pool](inside-the-pool.md)
+* [📚 Inside the Pool](inside-the-pool/README.md)
+  * [Introduction](inside-the-pool/introduction.md)
+  * [How it works](inside-the-pool/how-it-works.md)
+  * [Position rebalancing strategies](inside-the-pool/position-rebalancing-strategies.md)
