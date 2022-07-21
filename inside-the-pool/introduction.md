@@ -1,6 +1,6 @@
-# Introduction
+# 1⃣ Introduction
 
-Uniswap V3 is an automated market maker with several advantages \[10], the most important of which is concentrated liquidity: liquidity that is allocated within a custom price range. Using that feature, liquidity providers can provide liquidity with up to 4000x capital efficiency relative to Uniswap V2, earning higher returns on their capital\[10]. This approach makes Uniswap V3 much more profitable, but managing concentrated liquidity can be tricky. **Uniswap V3 evaluator** for boo$terpool strategies is a software tool, developed in Trinity Lab, that assists liquidity providers in selecting optimal liquidity management strategy, and achieving maximum capital efficiency.
+Uniswap V3 is an automated market maker with several advantages [\[10\]](information-sources.md), the most important of which is concentrated liquidity: liquidity that is allocated within a custom price range. Using that feature, liquidity providers can provide liquidity with up to 4000x capital efficiency relative to Uniswap V2, earning higher returns on their capital[\[10\]](information-sources.md). This approach makes Uniswap V3 much more profitable, but managing concentrated liquidity can be tricky. **Uniswap V3 evaluator** for boo$terpool strategies is a software tool, developed in Trinity Lab, that assists liquidity providers in selecting optimal liquidity management strategy, and achieving maximum capital efficiency.
 
 ### Problem statement
 
@@ -11,7 +11,7 @@ Each liquidity management strategy has a set of parameters, that should be chose
 * Distribution of concentrated liquidity between positions.&#x20;
 * Criteria of position rebalancing, etc.&#x20;
 
-Selection of optimal values for all parameters is a challenging task. One of widely used approaches for solving it is a backtesting approach, i.e. evaluation of a given set of parameters on historical data. Such evaluation can be done, using Uniswap V3 evaluator that uses math, described in Uniswap whitepaper\[9] for evaluating strategy's profits.
+Selection of optimal values for all parameters is a challenging task. One of widely used approaches for solving it is a backtesting approach, i.e. evaluation of a given set of parameters on historical data. Such evaluation can be done, using Uniswap V3 evaluator that uses math, described in Uniswap whitepaper[\[9\]](information-sources.md) for evaluating strategy's profits.
 
 ### **Key Features**
 

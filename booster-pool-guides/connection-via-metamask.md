@@ -1,2 +1,2 @@
-# 🌐 Connection via MetaMask
+# ▶ Connection via MetaMask
 

@@ -2,7 +2,7 @@
 description: This section provides a detailed description of how BoosterPool works.
 ---
 
-# How it works
+# 2⃣ How it works
 
 ### **How the strategy works**
 
@@ -19,7 +19,7 @@ A strategy input must also include a small set of technical parameters, such as 
 
 ### **Direct and reverse prices**
 
-A price of accounts can be calculated according to uniswap math. Basically, a price is a ratio between amounts of two tokens, namely - X and Y. In real pool X can be, for example, USDT and Y - ETH. The important part is that while end-user results and input parameters can be expressed in both Y/X (direct price) and X/Y (reverted price), the software itself calculates all the results using only direct price. It is important for working with soft ranges (see below). We use price information only at the end of block number, because our research leads to the conclusion that it is sufficient\[6].
+A price of accounts can be calculated according to uniswap math. Basically, a price is a ratio between amounts of two tokens, namely - X and Y. In real pool X can be, for example, USDT and Y - ETH. The important part is that while end-user results and input parameters can be expressed in both Y/X (direct price) and X/Y (reverted price), the software itself calculates all the results using only direct price. It is important for working with soft ranges (see below). We use price information only at the end of block number, because our research leads to the conclusion that it is sufficient[\[6\]](information-sources.md).
 
 ### **Basic position parameters**
 
