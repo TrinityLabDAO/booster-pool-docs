@@ -2,7 +2,7 @@
 
 * [📈 Let's boost your liquidity](README.md)
 * [💡 Booster Pool guides](booster-pool-guides/README.md)
-  * [🔡 Structure](booster-pool-guides/structure.md)
+  * [🔡 BoosterPool.xyz](booster-pool-guides/boosterpool.xyz.md)
   * [▶ Connection via MetaMask](booster-pool-guides/connection-via-metamask.md)
   * [↔ ETH<->WETH swap](booster-pool-guides/eth-less-than-greater-than-weth-swap.md)
   * [⬇ Deposit](booster-pool-guides/deposit.md)
