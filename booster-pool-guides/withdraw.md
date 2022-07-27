@@ -1,4 +1,10 @@
+---
+description: Removing liquidity
+---
+
 # ⬆ Withdraw
+
+
 
 ![](<../.gitbook/assets/image (28).png>)
 
