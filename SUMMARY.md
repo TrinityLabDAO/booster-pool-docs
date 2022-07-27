@@ -16,4 +16,3 @@
   * [5⃣ Future research](inside-the-pool/future-research.md)
   * [6⃣ Information sources](inside-the-pool/information-sources.md)
 * [📙 Terms of service](terms-of-service.md)
-* [Privacy policy](privacy-policy.md)
