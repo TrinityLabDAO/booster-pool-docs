@@ -15,4 +15,4 @@
   * [4⃣ Tested strategies](inside-the-pool/tested-strategies.md)
   * [5⃣ Future research](inside-the-pool/future-research.md)
   * [6⃣ Information sources](inside-the-pool/information-sources.md)
-* [📙 Terms of service](terms-of-service.md)
+* [📙 Terms of service](terms-of-use.md)
