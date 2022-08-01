@@ -8,7 +8,7 @@ To connect to the site via MetaMask, press **Connect MetaMask**:
 
 ![connect MetaMask button](<../.gitbook/assets/image (24).png>)
 
-After pressing **Connect MetaMask**, a pop-up window service window opens. You need to select the account to connect. To proceed, press **Next**:
+After pressing **Connect MetaMask**, a pop-up window opens. You need to select the account to connect. To proceed, press **Next**:
 
 ![account choosing](<../.gitbook/assets/image (21).png>)
 
