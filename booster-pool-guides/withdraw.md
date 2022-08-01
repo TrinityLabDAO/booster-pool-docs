@@ -4,7 +4,7 @@ description: Removing liquidity
 
 # ⬆ Withdraw
 
-To withdraw liquidity you need to click on the "Withdraw" button:
+To withdraw liquidity, you need to click **Withdraw** first:
 
 ![withdraw tab](<../.gitbook/assets/image (28).png>)
 
@@ -12,10 +12,10 @@ Enter the number of BP tokens that you want to exchange for the previously inves
 
 ![](<../.gitbook/assets/image (11).png>)
 
-Click "Withdraw" button to withdraw funds. The transaction confirmation window will appear from MetaMask. Press the "Confirm" button to confirm the withdrawal:
+Click **Withdraw** to withdraw funds. The MetaMask confirmation window appears. Press **Confirm** to proceed with the withdrawal:
 
 ![](<../.gitbook/assets/image (15).png>)
 
-Withdrawal was successful:
+The withdrawal was successful:
 
 ![](<../.gitbook/assets/image (22).png>)
