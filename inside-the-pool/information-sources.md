@@ -5,7 +5,7 @@
 3. [**Volatility properties**](https://web-static.stern.nyu.edu/rengle/EnglePattonQF.pdf)****
 4. ****[**Alpha Vault algorithm description**](https://medium.com/charmfinance/introducing-alpha-vaults-an-lp-strategy-for-uniswap-v3-ebf500b67796)****
 5. ****[**Alpha Vault overview**](https://learn.charm.fi/charm-finance/alpha-pro/how-it-works)****
-6. [**Dune query for get swaps info**](https://dune.com/queries/842038)****
+6. [**Dune query to get swaps info**](https://dune.com/queries/842038)****
 7. [**Gamma strategies description**](https://docs.gamma.xyz/gamma/features/clm-strategies)****
 8. ****[**Impermanent loss description**](https://medium.com/auditless/impermanent-loss-in-uniswap-v3-6c7161d3b445)****
 9. ****[**Uniswap v3 whitepaper**](https://uniswap.org/whitepaper-v3.pdf)****
