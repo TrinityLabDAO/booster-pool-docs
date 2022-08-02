@@ -22,5 +22,4 @@ The connection is successfully established:
 
 You're all set and can move on!
 
-![MetaMask is connected](<../.gitbook/assets/image (1).png>)
-
+![MetaMask is connected](<../.gitbook/assets/image (29).png>)
