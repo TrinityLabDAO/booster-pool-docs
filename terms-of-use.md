@@ -97,16 +97,16 @@ These terms constitute the entire agreement between you and us with respect to t
 
 Security and Risks
 
-DefiEdge is a decentralized and permissionless protocol. All strategy managers and liquidity providers are solely responsible for their strategy and funds.
-Strategy managers publishing strategies on our protocol have the option to be completely anonymous, and DefiEdge is not responsible for their strategies.
-Investors should DYOR (Do your own research) before investing in any of the published strategies on our protocol.
-Strategy managers have full responsibility to manage the strategy. The protocol will not share blame for any mishap.
-The strategy manager creates and manages all strategies
-All tokens listed or used in any of the verified or unverified strategies are tokens on UniswapV3 and have not gone through a separate verification process. Liquidity providers are strongly urged to DYOR do their own research before investing in any strategy or token.
-Losses may occur because of price fluctuations and price impact in unpredictable ways.
-All token prices and share prices are ESTIMATED; they might not be 100% completely correct/accurate and are not guaranteed.
-If there is any difficulty in using the Dapp on Polygon blockchain/optimism/arbitrum/rinkeby, contact the specific blockchain help centre or approach protocol using any social platform.
-Most of the tokens available on UniswapV3 are whitelisted and available to use in different strategies. It is possible to create any token and add it to UniswapV3. If any token is not available or whitelisted, users can contact the protocol support through any of our social media platforms. For more information, read our complete Privacy Policy and Terms of Service.
+*DefiEdge is a decentralized and permissionless protocol. All strategy managers and liquidity providers are solely responsible for their strategy and funds.
+*Strategy managers publishing strategies on our protocol have the option to be completely anonymous, and DefiEdge is not responsible for their strategies.
+*Investors should DYOR (Do your own research) before investing in any of the published strategies on our protocol.
+*Strategy managers have full responsibility to manage the strategy. The protocol will not share blame for any mishap.
+*The strategy manager creates and manages all strategies
+*All tokens listed or used in any of the verified or unverified strategies are tokens on UniswapV3 and have not gone through a separate verification process. Liquidity providers are strongly urged to DYOR do their own research before investing in any strategy or token.
+*Losses may occur because of price fluctuations and price impact in unpredictable ways.
+*All token prices and share prices are ESTIMATED; they might not be 100% completely correct/accurate and are not guaranteed.
+*If there is any difficulty in using the Dapp on Polygon blockchain/optimism/arbitrum/rinkeby, contact the specific blockchain help centre or approach protocol using any social platform.
+*Most of the tokens available on UniswapV3 are whitelisted and available to use in different strategies. It is possible to create any token and add it to UniswapV3. If any token is not available or whitelisted, users can contact the protocol support through any of our social media platforms. For more information, read our complete Privacy Policy and Terms of Service.
 
 -----------------
 Acceptance of Terms
