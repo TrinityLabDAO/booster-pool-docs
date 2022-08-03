@@ -96,6 +96,7 @@ These terms constitute the entire agreement between you and us with respect to t
 -----------------
 
 Security and Risks
+
 DefiEdge is a decentralized and permissionless protocol. All strategy managers and liquidity providers are solely responsible for their strategy and funds.
 Strategy managers publishing strategies on our protocol have the option to be completely anonymous, and DefiEdge is not responsible for their strategies.
 Investors should DYOR (Do your own research) before investing in any of the published strategies on our protocol.
