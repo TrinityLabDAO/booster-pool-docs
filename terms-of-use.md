@@ -4,13 +4,13 @@ description: updated 03.08.2022
 
 # 📙 Terms of Service
 
-Welcome to [https://boosterpool.xyz/](https://boosterpool.xyz/), a website-hosted user interface (hereinafter referred to as "Interface" or "App") provided by BoosterPool ("we", "our", or "us"). The Interface provides access to liquidity pools on the Uniswap v3 decentralized exchange.\
+Welcome to [https://boosterpool.xyz/](https://boosterpool.xyz/), a website-hosted user interface (hereinafter referred to as "Interface" or "App") provided by BoosterPool ("we", "our", or "us"). The Interface provides access to liquidity pools on the Uniswap v3 decentralized exchange.
 
 
 This Terms of Service Agreement (hereinafter referred to as "Agreement") contains the terms and conditions by which you may access and use the Interface. You must read this Agreement carefully. By accessing or using the Interface, you signify that you have read, understand, and agree to be bound by this Agreement in its entirety. If you do not agree, you are not authorized to access or use the Interface and should not use the Interface.
 
 {% hint style="info" %}
-Please read this Agreement carefully as it governs your use of the Interface. This Agreement contains important information, including a binding arbitration provision and a class action waiver, both of which impact your rights as to how disputes are resolved. The Interface is only available to you — and you should only access the Interface — if you agree completely with these terms.\
+Please read this Agreement carefully as it governs your use of the Interface. This Agreement contains important information, including a binding arbitration provision and a class action waiver, both of which impact your rights as to how disputes are resolved. The Interface is only available to you — and you should only access the Interface — if you agree completely with these terms.
 
 {% endhint %}
 
@@ -20,7 +20,7 @@ We reserve the right, in our sole discretion, to modify this Agreement from time
     
 2.  **Eligibility**
 
-To access or use the Interface, you must be capable of making a legally binding contract with us. Accordingly, you represent that you are at least of the age of majority in your jurisdiction (e.g., eighteen years old) and have the full right, power, and authority to enter into and comply with the terms and conditions of this Agreement on behalf of yourself and any company or legal entity for which you may access or use the Interface.\
+To access or use the Interface, you must be capable of making a legally binding contract with us. Accordingly, you represent that you are at least of the age of majority in your jurisdiction (e.g., eighteen years old) and have the full right, power, and authority to enter into and comply with the terms and conditions of this Agreement on behalf of yourself and any company or legal entity for which you may access or use the Interface.
 
 Finally, you represent that your access and use of the Interface will fully comply with all applicable laws and regulations, and that you will not access or use the Interface to conduct, promote, or otherwise facilitate any illegal activity.
     
@@ -34,7 +34,7 @@ We reserve the following rights, which do not constitute obligations of ours: (a
 
 5.  **Privacy**
 
-When you use the Interface, the only information we collect from you is your blockchain wallet address, completed transaction hashes, and the token names, symbols. We do not collect any personal information from you (e.g., your name or other identifiers that can be linked to you). We do, however, use third-party service providers, like Infura, Cloudflare, and Google Analytics, which may receive or independently obtain your personal information from publicly-available sources. We do not control how these third parties handle your data and you should review their privacy policies to understand how they collect, use, and share your personal information. \
+When you use the Interface, the only information we collect from you is your blockchain wallet address, completed transaction hashes, and the token names, symbols. We do not collect any personal information from you (e.g., your name or other identifiers that can be linked to you). We do, however, use third-party service providers, like Infura, Cloudflare, and Google Analytics, which may receive or independently obtain your personal information from publicly-available sources. We do not control how these third parties handle your data and you should review their privacy policies to understand how they collect, use, and share your personal information.
     _<mark style="color:blue;">In particular, please visit</mark>_ [_<mark style="color:blue;">https://policies.google.com/technologies/partner-sites</mark>_](https://policies.google.com/technologies/partner-sites) _<mark style="color:blue;">to learn more about how Google uses data. By accessing and using the Interface, you understand and consent to our data practices and our service providers' treatment of your information.</mark>_
     
 6.  **Prohibited Activity**
@@ -46,7 +46,7 @@ You agree not to engage in, or attempt to engage in, any of the following catego
     * Fraud and Misrepresentation: any activity that seeks to defraud us or any other person or entity, including (but not limited to) providing any false, inaccurate, or misleading information in order to unlawfully obtain the property of another.
     * Market Manipulation: any activity that violates any applicable law, rule, or regulation concerning the integrity of trading markets, including (but not limited to) the manipulative tactics commonly known as spoofing and wash trading.
     * Securities and Derivatives Violations: any activity that violates any applicable law, rule, or regulation concerning the trading of securities or derivatives.
-    * Any Other Unlawful Conduct.&#x20;
+    * Any Other Unlawful Conduct.
     
 7.  **No Warranties**
 
@@ -64,7 +64,7 @@ The Interface is operated from facilities within the United States. The Interfac
 
 By accessing and using the Interface, you represent that you are financially and technically sophisticated enough to understand the inherent risks associated with using cryptographic and blockchain-based systems, and that you have a working knowledge of the usage and intricacies of digital assets such as bitcoin (BTC), ether (ETH), and other digital tokens such as those following the Ethereum Token Standard (ERC-20). In particular, you understand that blockchain-based transactions are irreversible.
 
-You further understand that the markets for these digital assets are highly volatile due to factors including (but not limited to) adoption, speculation, technology, security, and regulation. You acknowledge and accept that the cost and speed of transacting with cryptographic and blockchain-based systems such as Ethereum are variable and may increase dramatically at any time.&#x20;
+You further understand that the markets for these digital assets are highly volatile due to factors including (but not limited to) adoption, speculation, technology, security, and regulation. You acknowledge and accept that the cost and speed of transacting with cryptographic and blockchain-based systems such as Ethereum are variable and may increase dramatically at any time.
 
 11. **Third-Party Resources and Promotions**
 
@@ -131,65 +131,55 @@ By accessing and/or using BoosterPool's Website and Services, including but not 
 In addition, by using this Website and/or Services, you understand, acknowledge and accept that BoosterPool and/or the underlying software are provided “AS IS” and without warranties or representations of any kind either expressed or implied. Any use of this software released under the **Business Software License (BSL)** is done at your own risk to the fullest extent permissible pursuant to applicable law any and all liability as well as all warranties, including any fitness for a particular purpose with respect to BoosterPool and/or the underlying software and the use thereof are disclaimed.
 
 -------------------------------------
-Privacy Policy
+## Privacy Policy
 
-What information do we collect?
-DeFiEdge does not collect any personal information. Occasionally, at our discretion, we may include or offer third party products or services on our site which may collect non-personally identifiable visitor information.
+### Personal Information
 
-Any information collected by third parties are subject to their separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites.
+BoosterPool DOES NOT collect any personal information. 
 
-Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-
-How do we use this information?
-Information collected by the third party product, Sentry.io is used to improve user experience and our website. For further details, please refer to Sentry.io Privacy Policy.
-
-
-How will this information be shared?
-DeFiEdge being a decentralised platform, does not collect any personally identifiable information and hence, does not sell, trade, or otherwise transfer it to outside parties.
+Being a decentralized platform, BoosterPool does not collect any personally identifiable information. BoosterPool does not sell, trade, or otherwise transfer such information to outside parties.
 
 This does not include trusted third parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
 
+Occasionally, at our discretion, we may include or offer third party products or services on our site which may collect non-personally identifiable visitor information. Any information collected by such third parties is subject to their separate and independent privacy policies. We therefore accept no responsibility or liability for the content and activities of such third parties. 
 
-How do we use cookies?
-As of now, we do not have any cookies. If we decide to change this policy, we will post those changes on this page.
+In particular, we affirm that we use the information collected by a third party product, [Sentry.io](https://sentry.io/welcome/), to improve the user experience of our website. For further details, please refer to [Sentry.io Privacy Policy](https://sentry.io/privacy/).
 
+We affirm that we seek to protect the integrity of our site and welcome any feedback about our site.
 
-Do US residents have access to the protocol?
-US residents are currently not blocked from using the protocol. However, a few functionalities might not be available to them. If we decide to change this policy, we will post those changes on this page.
+### Cookie Policy
 
+As of now, BoosterPool sites do not use any cookies. Should we decide to change this policy, we will duly post such changes on this page.
 
-Children’s Online Privacy Protection
+### Policy as to US Residents
+
+US residents are currently not blocked from using BoosterPool's website and/or services. However, certain functionalities might not be available to them. Should we decide to change this policy, we will duly post such changes on this page.
+
+### Protection of Minors
+
 Our site, products and services are all directed to people who are at least 13 years old or older.
 
-
-Is social media information stored with the protocol?
-Currently, strategy managers can share their twitter handle with the protocol for verifying the strategies they create (if they choose to).
-
-This information may only be used for marketing or advertising initiatives by the protocol.
-
+Currently, strategy managers can share their twitter handle with the protocol for verifying the strategies they create (if they choose to). This information may only be used for marketing or advertising initiatives by the protocol.
 
 Do strategy managers have access to investor information?
 Strategy managers only have view access to the wallet addresses of investors.
 
+> Does BoosterPool shares ownership ends?
 
-Do DE shares ownership ends?
 DE shares are a proof of liquidity added in a strategy.
 
 Investors have ownership of their DE shares as long as they are invested in a strategy. These shares are minted at the prevailing price when the investment is made and are burned once an investor removes the funds from the strategy.
 
 
-Is information shared with the government?
+> Is information shared with the government?
 NO information is shared with the government of any state or country.
 
-Online Privacy Policy Only
+> Online Privacy Policy Only
 This online privacy policy applies only to information collected through our site and not to information collected offline.
 
-
-Your Consent
+> Your Consent
 By using our site, you consent to our web site privacy policy.
 
-
-Changes to our Privacy Policy
-If we decide to change our privacy policy, we will post those changes on this page.
-
+> Changes to our Privacy Policy
+> 
+Should we decide to change this privacy policy, we will post those changes on this page.
