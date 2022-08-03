@@ -1,5 +1,5 @@
 ---
-description: upd 27.07.2022
+description: updated 03.08.2022
 ---
 
 # 📙 Terms of Service
@@ -111,30 +111,24 @@ These terms constitute the entire agreement between you and us with respect to t
 -----------------
 ## Acceptance of Terms
 
-BY ACCESSING THE DeFiEdge SERVICE(S), YOU AGREE TO THE DeFiEdge TERMS OF USE AND THE DeFiEdge PRIVACY POLICY. THESE TERMS OF USE IS A LEGAL AGREEMENT BETWEEN YOU AND DeFiEdge AND GOVERNS YOUR USE OF THE SERVICES. BY USING THE SERVICES, YOU ARE INDICATING THAT YOU HAVE READ AND AGREE TO THESE TERMS OF USE AND DeFiEdge’S PRIVACY POLICY (“PRIVACY POLICY”) AND, IF APPLICABLE, DeFiEdge’S END USER LICENSE AGREEMENTS (“EULA”), AND ANY OTHER RELATED TERMS AND CONDITIONS LOCATED ON DeFiEdge’S WEBSITE, ALL OF WHICH ARE INCORPORATED HEREIN BY THIS REFERENCE. IF YOU DO NOT AGREE TO THESE TERMS OF USE, DO NOT USE THE SERVICES.
-In addition, when using the Services, you shall be subject to any posted guidelines, rules or terms applicable to such Services, which may be posted from time to time. All such guidelines, rules or terms (including without limitation DeFiEdge’s Privacy Policy) are hereby incorporated by reference into the Terms of Use.
-In the event the terms of these Terms of Use conflict with the Privacy Policy, applicable EULA, or any other agreement between you and DeFiEdge, the terms of the applicable Privacy Policy, EULA, or other agreement shall govern as to the conflicting terms. If you have any questions regarding these terms and conditions, please contact customer service which is provided via info@defiedge.io.
-By accessing the DeFiEdge Website and use of the Services, you agree to these Terms of Use and you acknowledge that you have read and understood these Terms of Use. If you do not agree with the terms and conditions in these Terms of Use, please exit the Website and discontinue any use of the Services.
+THESE TERMS OF USE IS A LEGAL AGREEMENT BETWEEN YOU AND BoosterPool AND GOVERNS YOUR USE OF THE SERVICES. BY ACCESSING AND/OR USING THE SERVICES, YOU ARE INDICATING THAT YOU HAVE READ AND AGREE TO THESE TERMS OF USE AND, WITHOUT LIMITATION, BoosterPool’S PRIVACY POLICY (“PRIVACY POLICY”) AND, IF APPLICABLE, AND ANY OTHER RELATED GUIDELINES, RULES OR TERMS TERMS AND CONDITIONS WHICH MAY BE POSTED ON BoosterPool’s WEBSITE FROM TIME TO TIME, ALL OF WHICH ARE INCORPORATED HEREIN BY THIS REFERENCE. IF YOU DO NOT AGREE TO THESE TERMS OF USE, PLEASE EXIT THIS WEBSITE AND DO NOT USE THE SERVICES IN ANY WAY.
 
-Please note the following:
-You agree that you will only use the Website and Services for lawful purposes, and pursuant to these Terms of Use.
+Should the content of these Terms of Use be in conflict with the Privacy Policy or any other agreement between you and **BoosterPool**, the content of the applicable Privacy Policy or other agreements shall govern as to the conflicting part. If you have any questions regarding these terms and conditions, please contact BoosterPool via help@boosterpool.xyz. 
 
-You agree that you will not use the Website and Services if you do not agree to be bound by these Terms of Use.
+BoosterPool may also offer other services that are governed by these or different terms of use.
 
-At various times in the future, we may я забыrevise these Terms of Use, and you agree that you will be bound by, and will comply with, any revised terms, as of the date of publication of any revision.
+By accessing and/or using BoosterPool's Website and Services, including but not limited to creating strategies and depositing funds, you agree that you will: 
 
-You agree that DeFiEdge may also offer other services that are governed by these or different terms of use.
+1. only use the Website and Services for lawful purposes only, and solely in a manner consistent with the intent of BoosterPool as described in these Terms of Use
+2. not engage in any activities that are in violation of any applicable laws of any jurisdiction that applies.  
+3. not offer any interests, tokens, or equity in any fund owned or managed by you to a person who does not qualify to participate or purchase such interests, tokens, or equity in the applicable jurisdiction.
+4. not use any electronic communication feature of the Services or any third-party electronic communication provider used by BoosterPool for communication purposes, for any purpose that is unlawful, tortious, abusive, intrusive on another’s privacy, harassing, libellous, defamatory, embarrassing, obscene, threatening or hateful; 
+5. not upload, post, reproduce or distribute any information, software or other material protected by copyright or any other intellectual property right (as well as rights of publicity and privacy) without first obtaining the permission of the owner of such rights; 
+6. not use the Services for any commercial purpose not expressly approved by BoosterPool in writing; 
+7. not use the Services in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming, or any duplicative or unsolicited messages (commercial or otherwise), defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others, publish, post, distribute or disseminate any inappropriate, profane, defamatory, obscene, indecent or unlawful topic, name, material or information.
+8. not upload or otherwise make available files that contain images, photographs, software, or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have appropriate to protect your interests, including legal, tax, accounting and other advice.
 
-
-You agree to use the Services for lawful purposes only, and solely in a manner consistent with the intent of DeFiEdge as described in these Terms of Use.
-You agree that while using the Service, You will not engage in any activities that are in violation of any applicable laws of any jurisdiction that applies. You further agree to not offer any interests, tokens, or equity in any fund owned or managed by You to a person who does not qualify to participate or purchase such interests, tokens, or equity in the applicable jurisdiction.
-
-You agree that you will not: (i) use any electronic communication feature of the Services or any third-party electronic communication provider used by DeFiEdge for communication purposes, for any purpose that is unlawful, tortious, abusive, intrusive on another’s privacy, harassing, libellous, defamatory, embarrassing, obscene, threatening or hateful; (ii) upload, post, reproduce or distribute any information, software or other material protected by copyright or any other intellectual property right (as well as rights of publicity and privacy) without first obtaining the permission of the owner of such rights; (iii) use the Services for any commercial purpose not expressly approved by DeFiEdge in writing; (iv) use the Services in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming, or any duplicative or unsolicited messages (commercial or otherwise), defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others, publish, post, distribute or disseminate any inappropriate, profane, defamatory, obscene, indecent or unlawful topic, name, material or information.
-
-You agree you will not upload, or otherwise make available, files that contain images, photographs, software, or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have appropriate to protect your interests, including legal, tax, accounting and other advice.
-
-
-By using this software, you understand, acknowledge and accept that Finance and/or the underlying software are provided “as is” and without warranties or representations of any kind either expressed or implied. Any use of this open source software released under the BSL is done at your own risk to the fullest extent permissible pursuant to applicable law any and all liability as well as all warranties, including any fitness for a particular purpose with respect to Defiedge and/or the underlying software and the use thereof are disclaimed. - while creating strategy and depositing funds, agree to these terms and conditions.
+In addition, by using this Website and/or Services, you understand, acknowledge and accept that BoosterPool and/or the underlying software are provided “AS IS” and without warranties or representations of any kind either expressed or implied. Any use of this software released under the **Business Software License (BSL)** is done at your own risk to the fullest extent permissible pursuant to applicable law any and all liability as well as all warranties, including any fitness for a particular purpose with respect to BoosterPool and/or the underlying software and the use thereof are disclaimed.
 
 -------------------------------------
 Privacy Policy
