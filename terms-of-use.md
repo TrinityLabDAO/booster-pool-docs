@@ -92,3 +92,109 @@ You must bring any and all Disputes against us in your individual capacity and n
 17. **Entire Agreement**
 
 These terms constitute the entire agreement between you and us with respect to the subject matter hereof. This Agreement supersedes any and all prior or contemporaneous written and oral agreements, communications and other understandings (if any) relating to the subject matter of the terms.
+
+-----------------
+
+Security and Risks
+DefiEdge is a decentralized and permissionless protocol. All strategy managers and liquidity providers are solely responsible for their strategy and funds.
+Strategy managers publishing strategies on our protocol have the option to be completely anonymous, and DefiEdge is not responsible for their strategies.
+Investors should DYOR (Do your own research) before investing in any of the published strategies on our protocol.
+Strategy managers have full responsibility to manage the strategy. The protocol will not share blame for any mishap.
+The strategy manager creates and manages all strategies
+All tokens listed or used in any of the verified or unverified strategies are tokens on UniswapV3 and have not gone through a separate verification process. Liquidity providers are strongly urged to DYOR do their own research before investing in any strategy or token.
+Losses may occur because of price fluctuations and price impact in unpredictable ways.
+All token prices and share prices are ESTIMATED; they might not be 100% completely correct/accurate and are not guaranteed.
+If there is any difficulty in using the Dapp on Polygon blockchain/optimism/arbitrum/rinkeby, contact the specific blockchain help centre or approach protocol using any social platform.
+Most of the tokens available on UniswapV3 are whitelisted and available to use in different strategies. It is possible to create any token and add it to UniswapV3. If any token is not available or whitelisted, users can contact the protocol support through any of our social media platforms. For more information, read our complete Privacy Policy and Terms of Service.
+
+-----------------
+Acceptance of Terms
+
+BY ACCESSING THE DeFiEdge SERVICE(S), YOU AGREE TO THE DeFiEdge TERMS OF USE AND THE DeFiEdge PRIVACY POLICY. THESE TERMS OF USE IS A LEGAL AGREEMENT BETWEEN YOU AND DeFiEdge AND GOVERNS YOUR USE OF THE SERVICES. BY USING THE SERVICES, YOU ARE INDICATING THAT YOU HAVE READ AND AGREE TO THESE TERMS OF USE AND DeFiEdge’S PRIVACY POLICY (“PRIVACY POLICY”) AND, IF APPLICABLE, DeFiEdge’S END USER LICENSE AGREEMENTS (“EULA”), AND ANY OTHER RELATED TERMS AND CONDITIONS LOCATED ON DeFiEdge’S WEBSITE, ALL OF WHICH ARE INCORPORATED HEREIN BY THIS REFERENCE. IF YOU DO NOT AGREE TO THESE TERMS OF USE, DO NOT USE THE SERVICES.
+In addition, when using the Services, you shall be subject to any posted guidelines, rules or terms applicable to such Services, which may be posted from time to time. All such guidelines, rules or terms (including without limitation DeFiEdge’s Privacy Policy) are hereby incorporated by reference into the Terms of Use.
+In the event the terms of these Terms of Use conflict with the Privacy Policy, applicable EULA, or any other agreement between you and DeFiEdge, the terms of the applicable Privacy Policy, EULA, or other agreement shall govern as to the conflicting terms. If you have any questions regarding these terms and conditions, please contact customer service which is provided via info@defiedge.io.
+By accessing the DeFiEdge Website and use of the Services, you agree to these Terms of Use and you acknowledge that you have read and understood these Terms of Use. If you do not agree with the terms and conditions in these Terms of Use, please exit the Website and discontinue any use of the Services.
+
+Please note the following:
+You agree that you will only use the Website and Services for lawful purposes, and pursuant to these Terms of Use.
+
+You agree that you will not use the Website and Services if you do not agree to be bound by these Terms of Use.
+
+At various times in the future, we may я забыrevise these Terms of Use, and you agree that you will be bound by, and will comply with, any revised terms, as of the date of publication of any revision.
+
+You agree that DeFiEdge may also offer other services that are governed by these or different terms of use.
+
+
+You agree to use the Services for lawful purposes only, and solely in a manner consistent with the intent of DeFiEdge as described in these Terms of Use.
+You agree that while using the Service, You will not engage in any activities that are in violation of any applicable laws of any jurisdiction that applies. You further agree to not offer any interests, tokens, or equity in any fund owned or managed by You to a person who does not qualify to participate or purchase such interests, tokens, or equity in the applicable jurisdiction.
+
+You agree that you will not: (i) use any electronic communication feature of the Services or any third-party electronic communication provider used by DeFiEdge for communication purposes, for any purpose that is unlawful, tortious, abusive, intrusive on another’s privacy, harassing, libellous, defamatory, embarrassing, obscene, threatening or hateful; (ii) upload, post, reproduce or distribute any information, software or other material protected by copyright or any other intellectual property right (as well as rights of publicity and privacy) without first obtaining the permission of the owner of such rights; (iii) use the Services for any commercial purpose not expressly approved by DeFiEdge in writing; (iv) use the Services in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming, or any duplicative or unsolicited messages (commercial or otherwise), defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others, publish, post, distribute or disseminate any inappropriate, profane, defamatory, obscene, indecent or unlawful topic, name, material or information.
+
+You agree you will not upload, or otherwise make available, files that contain images, photographs, software, or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have appropriate to protect your interests, including legal, tax, accounting and other advice.
+
+
+By using this software, you understand, acknowledge and accept that Finance and/or the underlying software are provided “as is” and without warranties or representations of any kind either expressed or implied. Any use of this open source software released under the BSL is done at your own risk to the fullest extent permissible pursuant to applicable law any and all liability as well as all warranties, including any fitness for a particular purpose with respect to Defiedge and/or the underlying software and the use thereof are disclaimed. - while creating strategy and depositing funds, agree to these terms and conditions.
+
+-------------------------------------
+Privacy Policy
+
+What information do we collect?
+DeFiEdge does not collect any personal information. Occasionally, at our discretion, we may include or offer third party products or services on our site which may collect non-personally identifiable visitor information.
+
+Any information collected by third parties are subject to their separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites.
+
+Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+
+How do we use this information?
+Information collected by the third party product, Sentry.io is used to improve user experience and our website. For further details, please refer to Sentry.io Privacy Policy.
+
+
+How will this information be shared?
+DeFiEdge being a decentralised platform, does not collect any personally identifiable information and hence, does not sell, trade, or otherwise transfer it to outside parties.
+
+This does not include trusted third parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
+
+
+How do we use cookies?
+As of now, we do not have any cookies. If we decide to change this policy, we will post those changes on this page.
+
+
+Do US residents have access to the protocol?
+US residents are currently not blocked from using the protocol. However, a few functionalities might not be available to them. If we decide to change this policy, we will post those changes on this page.
+
+
+Children’s Online Privacy Protection
+Our site, products and services are all directed to people who are at least 13 years old or older.
+
+
+Is social media information stored with the protocol?
+Currently, strategy managers can share their twitter handle with the protocol for verifying the strategies they create (if they choose to).
+
+This information may only be used for marketing or advertising initiatives by the protocol.
+
+
+Do strategy managers have access to investor information?
+Strategy managers only have view access to the wallet addresses of investors.
+
+
+Do DE shares ownership ends?
+DE shares are a proof of liquidity added in a strategy.
+
+Investors have ownership of their DE shares as long as they are invested in a strategy. These shares are minted at the prevailing price when the investment is made and are burned once an investor removes the funds from the strategy.
+
+
+Is information shared with the government?
+NO information is shared with the government of any state or country.
+
+Online Privacy Policy Only
+This online privacy policy applies only to information collected through our site and not to information collected offline.
+
+
+Your Consent
+By using our site, you consent to our web site privacy policy.
+
+
+Changes to our Privacy Policy
+If we decide to change our privacy policy, we will post those changes on this page.
+
