@@ -4,7 +4,7 @@ description: updated 03.08.2022
 
 # 📙 Terms of Service
 
-Welcome to [https://boosterpool.xyz/](https://boosterpool.xyz/), a website-hosted user interface (hereinafter referred to as "Interface" or "App") provided by Trinity Lab ("we", "our", or "us"). The Interface provides access to liquidity pools on the Uniswap v3 decentralized exchange.\
+Welcome to [https://boosterpool.xyz/](https://boosterpool.xyz/), a website-hosted user interface (hereinafter referred to as "Interface" or "App") provided by BoosterPool ("we", "our", or "us"). The Interface provides access to liquidity pools on the Uniswap v3 decentralized exchange.\
 
 
 This Terms of Service Agreement (hereinafter referred to as "Agreement") contains the terms and conditions by which you may access and use the Interface. You must read this Agreement carefully. By accessing or using the Interface, you signify that you have read, understand, and agree to be bound by this Agreement in its entirety. If you do not agree, you are not authorized to access or use the Interface and should not use the Interface.
