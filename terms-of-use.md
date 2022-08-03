@@ -2,7 +2,7 @@
 description: upd 27.07.2022
 ---
 
-# 📙 Terms of service
+# 📙 Terms of Service
 
 Welcome to [https://boosterpool.xyz/](https://boosterpool.xyz/), a website-hosted user interface (hereinafter referred to as "Interface" or "App") provided by Trinity Lab ("we", "our", or "us"). The Interface provides access to liquidity pools on the Uniswap v3 decentralized exchange.\
 
@@ -21,7 +21,8 @@ We reserve the right, in our sole discretion, to modify this Agreement from time
 2.  **Eligibility**
 
 To access or use the Interface, you must be capable of making a legally binding contract with us. Accordingly, you represent that you are at least of the age of majority in your jurisdiction (e.g., eighteen years old) and have the full right, power, and authority to enter into and comply with the terms and conditions of this Agreement on behalf of yourself and any company or legal entity for which you may access or use the Interface.\
-    Finally, you represent that your access and use of the Interface will fully comply with all applicable laws and regulations, and that you will not access or use the Interface to conduct, promote, or otherwise facilitate any illegal activity.
+
+Finally, you represent that your access and use of the Interface will fully comply with all applicable laws and regulations, and that you will not access or use the Interface to conduct, promote, or otherwise facilitate any illegal activity.
     
 3.  **Proprietary Rights**
 
@@ -95,20 +96,20 @@ These terms constitute the entire agreement between you and us with respect to t
 
 -----------------
 
-Security and Risks
+## Security and Risks
 
 * BoosterPool is a decentralized and permissionless liquidity manager.
-* Investors should DYOR (Do your own research) before investing in any of the published pools on our resource.
-* Investor should understand all risks and profit of using boosterpool. The platform will not share blame for any mishap.
-* The strategy manager creates and manages all strategies
-* All tokens listed or used in any of the pools are tokens on UniswapV3 and have not gone through a separate verification process. Liquidity providers are strongly urged to DYOR do their own research before adding liquidity.
-* Losses may occur because of price fluctuations and price impact in unpredictable ways.
-* All token prices and share prices are ESTIMATED; they might not be 100% completely correct/accurate and are not guaranteed.
-* If there is any difficulty in using the Dapp, please visit boosterpool guides first.
-* For more information, read our complete Privacy Policy and Terms of Service.
+* Investors should DYOR (do their own research) before investing in any of the published pools on our resource.
+* An investor should understand all risks and profit of using BoosterPool. The platform accepts no blame for whatever possible mishaps.
+* The strategy manager creates and manages all strategies.
+* All tokens listed or used in any of the pools are  Uniswap v3 tokens and have not gone through any separate verification process. Liquidity providers are strongly urged to DYOR (do their own research) before adding liquidity.
+* Losses may occur in unpredictable ways because of price fluctuations and price impact.
+* All token prices and share prices are **ESTIMATED**; they might not be 100% correct and/or accurate and are not guaranteed.
+* If there is any difficulty in using the DApp, please refer to BoosterPool guides first.
+* For further information, read our complete Privacy Policy and Terms of Service.
 
 -----------------
-Acceptance of Terms
+## Acceptance of Terms
 
 BY ACCESSING THE DeFiEdge SERVICE(S), YOU AGREE TO THE DeFiEdge TERMS OF USE AND THE DeFiEdge PRIVACY POLICY. THESE TERMS OF USE IS A LEGAL AGREEMENT BETWEEN YOU AND DeFiEdge AND GOVERNS YOUR USE OF THE SERVICES. BY USING THE SERVICES, YOU ARE INDICATING THAT YOU HAVE READ AND AGREE TO THESE TERMS OF USE AND DeFiEdge’S PRIVACY POLICY (“PRIVACY POLICY”) AND, IF APPLICABLE, DeFiEdge’S END USER LICENSE AGREEMENTS (“EULA”), AND ANY OTHER RELATED TERMS AND CONDITIONS LOCATED ON DeFiEdge’S WEBSITE, ALL OF WHICH ARE INCORPORATED HEREIN BY THIS REFERENCE. IF YOU DO NOT AGREE TO THESE TERMS OF USE, DO NOT USE THE SERVICES.
 In addition, when using the Services, you shall be subject to any posted guidelines, rules or terms applicable to such Services, which may be posted from time to time. All such guidelines, rules or terms (including without limitation DeFiEdge’s Privacy Policy) are hereby incorporated by reference into the Terms of Use.
