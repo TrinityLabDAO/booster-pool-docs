@@ -153,15 +153,14 @@ US residents are currently not blocked from using BoosterPool's website and/or s
 
 Our site, products and services are all directed to people who are at least 13 years old or older.
 
-> Is information shared with the government?
+Is information shared with the government?
 NO information is shared with the government of any state or country.
 
-> Online Privacy Policy Only
+Online Privacy Policy Only
 This online privacy policy applies only to information collected through our site and not to information collected offline.
 
-> Your Consent
+Your Consent
 By using our site, you consent to our web site privacy policy.
 
-> Changes to our Privacy Policy
-> 
+Сhanges to our Privacy Policy 
 Should we decide to change this privacy policy, we will post those changes on this page.
