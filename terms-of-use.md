@@ -141,10 +141,6 @@ This does not include trusted third parties who assist us in operating our site,
 
 Occasionally, at our discretion, we may include or offer third party products or services on our site which may collect non-personally identifiable visitor information. Any information collected by such third parties is subject to their separate and independent privacy policies. We therefore accept no responsibility or liability for the content and activities of such third parties. 
 
-In particular, we affirm that we use the information collected by a third party product, [Sentry.io](https://sentry.io/welcome/), to improve the user experience of our website. For further details, please refer to [Sentry.io Privacy Policy](https://sentry.io/privacy/).
-
-We affirm that we seek to protect the integrity of our site and welcome any feedback about our site.
-
 ### Cookie Policy
 
 As of now, BoosterPool sites do not use any cookies. Should we decide to change this policy, we will duly post such changes on this page.
@@ -156,18 +152,6 @@ US residents are currently not blocked from using BoosterPool's website and/or s
 ### Protection of Minors
 
 Our site, products and services are all directed to people who are at least 13 years old or older.
-
-Currently, strategy managers can share their twitter handle with the protocol for verifying the strategies they create (if they choose to). This information may only be used for marketing or advertising initiatives by the protocol.
-
-Do strategy managers have access to investor information?
-Strategy managers only have view access to the wallet addresses of investors.
-
-> Does BoosterPool shares ownership ends?
-
-DE shares are a proof of liquidity added in a strategy.
-
-Investors have ownership of their DE shares as long as they are invested in a strategy. These shares are minted at the prevailing price when the investment is made and are burned once an investor removes the funds from the strategy.
-
 
 > Is information shared with the government?
 NO information is shared with the government of any state or country.
