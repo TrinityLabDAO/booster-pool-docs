@@ -99,14 +99,12 @@ These terms constitute the entire agreement between you and us with respect to t
 ## Security and Risks
 
 * BoosterPool is a decentralized and permissionless liquidity manager.
-* Investors should DYOR (do their own research) before investing in any of the published pools on our resource.
-* An investor should understand all risks and profit of using BoosterPool. The platform accepts no blame for whatever possible mishaps.
-* The strategy manager creates and manages all strategies.
-* All tokens listed or used in any of the pools are  Uniswap v3 tokens and have not gone through any separate verification process. Liquidity providers are strongly urged to DYOR (do their own research) before adding liquidity.
+* BoosterPool is a decentralized and permissionless liquidity manager.
+* An investor should understand all risks and profit of using BoosterPool. The platform accepts no blame for whatever possible impermanent losses.
+* All tokens listed or used in any of the pools are Uniswap v3 tokens. 
+* Liquidity providers are strongly urged to DYOR (do their own research) before adding liquidity.
 * Losses may occur in unpredictable ways because of price fluctuations and price impact.
-* All token prices and share prices are **ESTIMATED**; they might not be 100% correct and/or accurate and are not guaranteed.
-* If there is any difficulty in using the DApp, please refer to BoosterPool guides first.
-* For further information, read our complete Privacy Policy and Terms of Service.
+* For further information, read our guides.
 
 -----------------
 ## Acceptance of Terms
