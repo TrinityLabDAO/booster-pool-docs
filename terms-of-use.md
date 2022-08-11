@@ -9,7 +9,6 @@ Welcome to [https://boosterpool.xyz/](https://boosterpool.xyz/), a website-hoste
 ## Security and Risks
 
 * BoosterPool is a decentralized and permissionless liquidity manager.
-* BoosterPool is a decentralized and permissionless liquidity manager.
 * An investor should understand all risks and profit of using BoosterPool. The platform accepts no blame for whatever possible impermanent losses.
 * All tokens listed or used in any of the pools are Uniswap v3 tokens. 
 * Liquidity providers are strongly urged to DYOR (do their own research) before adding liquidity.
