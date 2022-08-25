@@ -6,13 +6,13 @@ description: Welcome to boosterpool.xyz
 
 This is the main page of the dynamic liquidity management project - Booster Pool. It contains information about active pools with a brief summary of the main parameters, the total liquidity in the project, fees earned over 24 hours as well as links to social networks.
 
-![Main page of boosterpool.xyz](<../.gitbook/assets/image (17).png>)
+![Main page of boosterpool.xyz](<../.gitbook/assets/image (17) (1).png>)
 
 If you go to the page of any active pool, you will see the following information:
 
 ![Pool's page](<../.gitbook/assets/image (19).png>)
 
-* General description of the liquidity pool.&#x20;
+* General description of the liquidity pool.
 * Detailed information about the pool that includes the information about your position in the pool:
   * Total value locked (TVL)
   * The total number of assets in the pool
@@ -23,4 +23,3 @@ If you go to the page of any active pool, you will see the following information
   * Deposit
   * Withdraw
   * Wrap
-

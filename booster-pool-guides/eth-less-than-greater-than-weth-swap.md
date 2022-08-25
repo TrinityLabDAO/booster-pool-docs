@@ -1,4 +1,4 @@
-# ↔ ETH <-> wETH swap
+# ↔ ETH<->WETH swap
 
 Uniswap V3 pools use wrapped ETH. To get it, you need to swap ETH for WETH.
 
@@ -22,7 +22,7 @@ Note that you need to leave a small amount of ETH to pay the transaction fees.
 
 If you want to get ETH in exchange for wETH, click on the arrows, and the direction of the exchange will change:
 
-![change the direction of wrap](../.gitbook/assets/image.png)
+![change the direction of wrap](<../.gitbook/assets/image (7).png>)
 
 Now you can unwrap your wETH and receive ETH:
 
@@ -32,6 +32,6 @@ Let's unwrap some wETH. You need to enter the desired amount of wETH and click *
 
 ![unwrap confirmation](<../.gitbook/assets/image (12).png>)
 
-Congratulations, you have successfully performed the wrap - unwrap operation for ETH. 
+Congratulations, you have successfully performed the wrap - unwrap operation for ETH.
 
 ![your balance](<../.gitbook/assets/image (18).png>)

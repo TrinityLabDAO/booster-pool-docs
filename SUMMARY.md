@@ -15,3 +15,5 @@
   * [4⃣ Tested strategies](inside-the-pool/tested-strategies.md)
   * [5⃣ Future research](inside-the-pool/future-research.md)
   * [6⃣ Information sources](inside-the-pool/information-sources.md)
+* [🔒 Security Audits](security-audits/README.md)
+  * [📔 Audit by Smart State](security-audits/audit-by-smart-state.md)

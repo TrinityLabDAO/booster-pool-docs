@@ -18,13 +18,13 @@ After clicking **Approve wETH** (first asset), the MetaMask confirmation window 
 
 Then you have to approve the second asset in the same way:
 
-![second asset approve](<../.gitbook/assets/image (3).png>)
+![second asset approve](<../.gitbook/assets/image (3) (1).png>)
 
-After you have approvedapproving the assests, you can proceed with adding liquidity. Enter the amount of assests you want to add. It is enough to enter the amount of one of the assets, the second will be calculated automatically. Click **Deposit** to continue.&#x20;
+After you have approvedapproving the assests, you can proceed with adding liquidity. Enter the amount of assests you want to add. It is enough to enter the amount of one of the assets, the second will be calculated automatically. Click **Deposit** to continue.
 
 After clicking **Deposit**, the MetaMask confirmation window appears. Click **Confirm** to proceed:
 
-![deposit](<../.gitbook/assets/image (27).png>)
+![deposit](<../.gitbook/assets/image (27) (1).png>)
 
 After the transaction is confirmed, you will see in the information field the amount of BoosterPool (BP) tokens you have received.
 

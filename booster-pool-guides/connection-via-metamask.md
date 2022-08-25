@@ -18,8 +18,8 @@ The next window shows the permissions you have set for the connection you are re
 
 The connection is successfully established:
 
-![successfully connected](<../.gitbook/assets/image (4).png>)
+![successfully connected](<../.gitbook/assets/image (4) (1).png>)
 
 You're all set and can move on!
 
-![MetaMask is connected](<../.gitbook/assets/image (29).png>)
+![MetaMask is connected](<../.gitbook/assets/image (1) (2).png>)
