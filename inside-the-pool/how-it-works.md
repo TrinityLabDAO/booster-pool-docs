@@ -19,13 +19,13 @@ The strategy input must also include a small set of technical parameters, such a
 
 ### **Direct and reverse prices**
 
-A price of accounts can be calculated according to Uniswap math. Basically, a price is a ratio between the amounts of two tokens, X and Y. In a real pool, X can be, for example, USDT, and Y - ETH. 
+A price of accounts can be calculated according to Uniswap math. Basically, a price is a ratio between the amounts of two tokens, X and Y. In a real pool, X can be, for example, USDT, and Y - ETH.
 
 An important point: while end-user results and input parameters can be expressed as both Y/X (direct price) and X/Y (reverted price), the software itself calculates all the results using only the direct price. It is important for working with soft ranges (see below). We use price information only at the end of the block's number, because our research leads to the conclusion that it is sufficient[\[6\]](information-sources.md).
 
 ### **Basic position parameters**
 
-There are three basic position parameters: upper and lower boundsб and input liquidity. The latter is obvious, and it can be set using both tokens in an arbitrary proportion. The correct proportion of tokens will be calculated automatically according to Uniswap math.
+There are three basic position parameters: upper and lower bounds and input liquidity. The latter is obvious, and it can be set using both tokens in an arbitrary proportion. The correct proportion of tokens will be calculated automatically according to Uniswap math.
 
 Each position has an upper and lower bound that are set in ticks. But not every tick can be used to place a position bound. According to Uniswap V3 math, a subset of ticks that can be used for this depends on the amount of fees that Uniswap V3 gives for that pool, and it is determined by so-called tick space (see table 1).
 
@@ -35,7 +35,7 @@ Each position has an upper and lower bound that are set in ticks. But not every 
 | --------------- | ---------- |
 | 0.0005          | 10         |
 | 0.003           | 60         |
-|  **** 0.01      | 200        |
+| \*\*\*\* 0.01   | 200        |
 
 If the tick number can be divided without excess to the tick space, then this tick can be used to place position top or bound. Such a tick is called _base tick_ in our software. For the case of strategy assessment, the location of each position is determined according to the relative tokens' price at the block where the position is started. So each location of each position can be set using two numbers:
 
