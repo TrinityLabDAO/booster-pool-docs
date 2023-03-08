@@ -17,3 +17,4 @@
   * [6⃣ Information sources](inside-the-pool/information-sources.md)
 * [🔒 Security Audits](security-audits/README.md)
   * [📔 Audit by Smart State](security-audits/audit-by-smart-state.md)
+* [📕 Terms of service](terms-of-service.md)
