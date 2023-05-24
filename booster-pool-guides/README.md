@@ -1,2 +1,0 @@
-# 💡 Booster Pool guides
-
