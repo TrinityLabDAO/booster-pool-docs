@@ -18,7 +18,7 @@ Here the scheme how BoosterPool smart contract works: Vault USDC/ETH [Neutral](m
 
 #### Mechanics:
 
-Liquidity Provider (LP) deposeted 2 WETH to vault WETH/USDC, zap contract swaps required amount of WETH to recieve USDC. Then LP recieves BP liquidity tokens, contract adds liquidity to pool. This alghorithm exicuted in one block to exclude slippidge and reduse fees. And everything working smooth
+Liquidity Provider (LP) deposeted 2 WETH to vault WETH/USDC, zap contract swaps required amount of WETH to recieve USDC. Then LP recieves BP liquidity tokens, contract adds liquidity to pool. This alghorithm exicuted in one block to exclude slippidge and reduse fees.&#x20;
 
 {% hint style="info" %}
 In BoosterPool's zap v3 algorithm, if the proportions of assets in the liquidity pool changes while the script is running, the Liquidity Provider (LP) will get the remaining asset after the liquidity added.
