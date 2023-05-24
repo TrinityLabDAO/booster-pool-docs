@@ -14,11 +14,11 @@ With this new feature, liquidity management becomes more accessible to a broader
 
 Here the scheme how BoosterPool smart contract works:
 
-<figure><img src="../.gitbook/assets/zap v3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/zap v3 (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Mechanics:
 
-Liquidity Provider (LP) deposeted 10 TKN1 to vault TKN1/TKN2, zap contract swaps required amount of TKN1 to recieve TKN2. Then LP recieves BP liquidity tokens, contract adds liquidity to pool. This alghorithm exicuted in one block to exclude slippidge and reduse fees.
+Liquidity Provider (LP) deposeted 2 WETH to vault WETH/USDC, zap contract swaps required amount of WETH to recieve USDC. Then LP recieves BP liquidity tokens, contract adds liquidity to pool. This alghorithm exicuted in one block to exclude slippidge and reduse fees.
 
 {% hint style="info" %}
 In BoosterPool's zap v3 algorithm, if the proportions of assets in the liquidity pool changes while the script is running, the Liquidity Provider (LP) will get the remaining asset after the liquidity added.
