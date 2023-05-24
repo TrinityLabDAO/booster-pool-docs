@@ -12,7 +12,7 @@ With this new feature, liquidity management becomes more accessible to a broader
 
 ### How Zap v3 works
 
-Here the scheme how BoosterPool smart contract works:
+Here the scheme how BoosterPool smart contract works: Vault USDC/ETH [Neutral](market-strategies.md#neutral-strategy) ( Rate: 1 ETH = 1,800 USDC)
 
 <figure><img src="../.gitbook/assets/zap v3 (2).png" alt=""><figcaption></figcaption></figure>
 
