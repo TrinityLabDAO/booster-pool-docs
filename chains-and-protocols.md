@@ -10,6 +10,6 @@ description: Supported / upcoming chains and protocols
 
 ## Upcoming (under development)
 
-<table data-view="cards"><thead><tr><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center">Chains</td><td>BNB Chain<br></td></tr><tr><td align="center">V3 Protocols</td><td>Pancake Swap V3<br></td></tr><tr><td align="center">Perpetual Protocols</td><td>GMX<br>Gains Network<br>Apollo X<br>MUX Protocol</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center">Chains</td><td>BNB Chain<br></td></tr><tr><td align="center">V3 Protocols</td><td>Pancake Swap V3<br></td></tr><tr><td align="center">Perpetual Protocols</td><td>Gains Network<br>MUX Protocol</td></tr></tbody></table>
 
 ####

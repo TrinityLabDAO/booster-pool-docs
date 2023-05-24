@@ -4,12 +4,12 @@ Uniswap V3 is an automated market maker (AMM) with several advantages [\[10\]](i
 
 ### Problem statement
 
-Each liquidity management strategy has a set of parameters that must be chosen, such as:&#x20;
+Each liquidity management strategy has a set of parameters that must be chosen, such as:
 
-* Amount of input liquidity.&#x20;
-* Number of positions.&#x20;
-* Distribution of concentrated liquidity between positions.&#x20;
-* Criteria of position rebalancing, etc.&#x20;
+* Amount of input liquidity.
+* Number of positions.
+* Distribution of concentrated liquidity between positions.
+* Criteria of position rebalancing, etc.
 
 Selection of optimal values for all parameters is a challenging task. One of widely used approaches to solving it is _backtesting_, i.e., evaluating a given set of parameters on historical data. Such evaluation can be done using Uniswap V3 evaluator that uses math, described in the Uniswap whitepaper[\[9\]](information-sources.md) for evaluating strategy's profits.
 
@@ -17,7 +17,7 @@ Selection of optimal values for all parameters is a challenging task. One of wid
 
 1. Assessment of each strategy's profits on for each position and the overall profit for all positions, including rebalancing.
 2. Support for arbitrary tokens and concentrated liquidity amounts.
-3. Calculation of earnings, fees and other strategies' parameters according to Uniswap math and price information, derived directly from the blockchain.&#x20;
-4. Support for the calculation for arbitrary data parts using the built-in SQL engine.&#x20;
-5. The possibility to set independent parameters for each position, including rebalancing criteria.&#x20;
+3. Calculation of earnings, fees and other strategies' parameters according to Uniswap math and price information, derived directly from the blockchain.
+4. Support for the calculation for arbitrary data parts using the built-in SQL engine.
+5. The possibility to set independent parameters for each position, including rebalancing criteria.
 6. Taking into account resistance and support levels.

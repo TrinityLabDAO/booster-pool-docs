@@ -18,7 +18,7 @@ Approve the chosen asset
 
 Enter amount, click "Add liquidity" and confirm the action.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Adding liquidity</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Adding liquidity</p></figcaption></figure>
 
 Congratulations! You successfully added a liquidity in one asset.
 

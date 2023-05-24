@@ -6,7 +6,7 @@ description: Removing liquidity
 
 To withdraw liquidity, you need to click **Withdraw Liquidity** first:
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>withdraw liquidity tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>withdraw liquidity tab</p></figcaption></figure>
 
 Set the number of BP tokens that you want to exchange for the previously invested assets. The amount of assets you'll receive is indicated in the right field.
 

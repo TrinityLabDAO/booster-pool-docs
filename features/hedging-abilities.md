@@ -8,9 +8,7 @@ BoosterPool offers powerful hedging abilities to help you manage and protect you
 
 The Perpetual Contracts Aggregator in BoosterPool allows you to hedge your LP position across multiple decentralized platforms:
 
-* GMX
 * Gains Network
-* Apollo X
 * MUX Protocol
 
 Hedging is a risk management strategy that involves taking an offsetting position to protect against potential losses in the underlying asset. By hedging your LP position, you can mitigate the impact of adverse market movements and stabilize your overall portfolio.
