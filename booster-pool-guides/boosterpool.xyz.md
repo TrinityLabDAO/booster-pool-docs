@@ -6,7 +6,7 @@ description: Welcome to boosterpool.xyz
 
 This is the main page of the dynamic liquidity management project - Booster Pool. It contains information about the project, link to the app and links to social networks.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Main page of boosterpool.xyz</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Main page of boosterpool.xyz</p></figcaption></figure>
 
 Lets dive into the [app ](https://boosterpool.xyz/#/vaults)- the most interesting thing are there:&#x20;
 

@@ -18,7 +18,7 @@ First you need to approve both assets so that the smart contract has access to y
 
 After clicking **Approve BUSDC** (first asset), the MetaMask confirmation window appears. Click **Confirm** to proceed.
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>First asset approving</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>First asset approving</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>First asset approving</p></figcaption></figure>
 
