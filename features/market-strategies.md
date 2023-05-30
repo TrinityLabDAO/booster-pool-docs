@@ -30,7 +30,7 @@ This strategy is a modified version of neutral strategy. It is similar to the ne
 
 <figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>HODL strategy</p></figcaption></figure>
 
-HODL strategy use of market support and resistance levels, nearests to curent price value, for calculation of position width on rebalancing. Also, strategy uses logarithmic space for calculation of market levels and prices.
+HODL strategy makes use of market support and resistance levels, nearests to curent price value, for calculation of position width on rebalancing. Also, strategy uses logarithmic space for calculation of market levels and prices.
 
 
 Overall, BoosterPool's active liquidity management strategies incorporate rules for positioning liquidity based on market price and employ a criterion of price range crossing for position closure. By considering additional information about price movement and employing the ¾ rule, users can align their liquidity with anticipated price directions, potentially maximizing profits. The selection of position width based on market levels further refines the strategies, providing a comprehensive approach to active liquidity management in BoosterPool.
