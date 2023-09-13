@@ -25,18 +25,19 @@
 
 ## 📚 Inside the Pool
 
+* [Fee structure](inside-the-pool/fee-structure.md)
 * [BoosterPool v1.2](inside-the-pool/boosterpool-v1.2/README.md)
-  * [1⃣ 1⃣ Active liquidity management bot](inside-the-pool/boosterpool-v1.2/active-liquidity-management-bot.md)
-  * [2⃣ 2⃣ Supported position closing criterias](inside-the-pool/boosterpool-v1.2/supported-position-closing-criterias.md)
-  * [3⃣ 3⃣ Supported rules of position placing](inside-the-pool/boosterpool-v1.2/supported-rules-of-position-placing.md)
-  * [4⃣ 4⃣ Strategies types](inside-the-pool/boosterpool-v1.2/strategies-types.md)
+  * [1⃣ 1⃣ 1⃣ Active liquidity management bot](inside-the-pool/boosterpool-v1.2/active-liquidity-management-bot.md)
+  * [2⃣ 2⃣ 2⃣ Supported position closing criterias](inside-the-pool/boosterpool-v1.2/supported-position-closing-criterias.md)
+  * [3⃣ 3⃣ 3⃣ Supported rules of position placing](inside-the-pool/boosterpool-v1.2/supported-rules-of-position-placing.md)
+  * [4⃣ 4⃣ 4⃣ Strategies types](inside-the-pool/boosterpool-v1.2/strategies-types.md)
 * [BoosterPool v1.0](inside-the-pool/boosterpool-v1.0/README.md)
-  * [1⃣ 1⃣ Introduction](inside-the-pool/introduction.md)
-  * [2⃣ 2⃣ How it works](inside-the-pool/how-it-works.md)
-  * [3⃣ 3⃣ Position rebalancing strategies](inside-the-pool/position-rebalancing-strategies.md)
-  * [4⃣ 4⃣ Tested strategies](inside-the-pool/tested-strategies.md)
-  * [5⃣ 5⃣ Future research](inside-the-pool/future-research.md)
-  * [6⃣ 6⃣ Information sources](inside-the-pool/information-sources.md)
+  * [1⃣ 1⃣ 1⃣ Introduction](inside-the-pool/introduction.md)
+  * [2⃣ 2⃣ 2⃣ How it works](inside-the-pool/how-it-works.md)
+  * [3⃣ 3⃣ 3⃣ Position rebalancing strategies](inside-the-pool/position-rebalancing-strategies.md)
+  * [4⃣ 4⃣ 4⃣ Tested strategies](inside-the-pool/tested-strategies.md)
+  * [5⃣ 5⃣ 5⃣ Future research](inside-the-pool/future-research.md)
+  * [6⃣ 6⃣ 6⃣ Information sources](inside-the-pool/information-sources.md)
 
 ## 🔓 Security Audits
 
